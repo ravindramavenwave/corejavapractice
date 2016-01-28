@@ -1,0 +1,24 @@
+2.   From browser edit online the site Map and allowing addition of new/delete pages.
+
+3.   Compared to Web sphere Commercial Server which comes with big license cost, it is completely free.Atlhough,
+      some of the advance features will be missing which most of the time content developer do not use. 
+     
+4.   Backward compatibility is good in OpenCms. Take the case, if you have used WCMv6 in you company and now wants to migrate to WCMv8 ( IBM has stopped support of WCMv6) you are required to pay $100k+ for WCMv8 upgrade as part from yearly licensing fee. In addition,if you have used any advance features of WCM,migrating them to new version will require additional rework.
+    Whereas, if you are upgrading in OpenCms, it can be done without above hurdles.
+
+5.  As an Open Source tool all the code is available online, If you want to customize or look for internal working.
+     It should not be daunting task to plugin other OpenSource frameworks with it. exp Angularjs.
+
+6.  Exporting/Importing of the complete site as a static content folder is easy and can be done by directly going to administration part.
+
+7. Search is one of most used feature of any CMS.OpenCms provides for advance Lucence framework based search. Full text search support for web pages as well as in office documents like PDF, MS Office and Open Office.
+Internally, it has been implemented as completely independent service which accepts search query as an Xml, parses and optimises the search query and returns back the response as Xml.
+However, there are few drawbacks which can be considered such as : 1) Not big active community support.
+
+ 2) Not enough training material available online and only 1 book is available in market which too is based on older version.
+ 3) Cluster version of the OpenCms is not free and requires licence. 
+
+   Thus, if we are looking for Open source alternative with few good build in controls like Tabs,documents upload,inline editing,animation etc OpenCms is excellent choice. 
+The learning curve  is excellent for Content editor who will use this tool to manage site.
+For comparison of CMS solutions, see:
+http://www.cmsmatrix.org/
